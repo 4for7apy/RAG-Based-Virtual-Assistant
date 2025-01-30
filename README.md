@@ -16,7 +16,8 @@ After rigorous development and testing, we are proud to announce that chatbot is
 # Output
 
 ![Screenshot (1299)](https://github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/3c1ec8f9-8c25-4681-a747-2b09cc2febca)
-![Screenshot (1301)](https://github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/43282058-3b4a-475f-a11d-7af1e8e86556)
-![Screenshot (1300)](https://github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/953320f1-0a2f-473f-bf4d-dbdf914b20c9)
-![Screenshot (1308)](https://github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/e0cf8ccc-8b71-4b6c-a941-7511d90447d7)
+![Screenshot (1301)](https:![Screenshot (1554)](https://github.com/user-attachments/assets/8015d945-08f3-4ba8-a3b8-c2ef66009a1f)
+//github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/43282058-3b4a-475f-a11d-7af1e8e86556)
 ![Screenshot (1307)](https://github.com/Springboard-Internship-2024/Infosys-Website-Chatbot-Development_Apr_2024/assets/114863914/4b0d3af2-3f38-439d-9e41-e6566a827efb)
+![Screenshot (1545)](https://github.com/user-attachments/assets/d103c5a1-9f0e-49a1-84d4-56a306d19a86)
+
